@@ -2,7 +2,7 @@ NutriBot: AI-Powered Nutrition Chatbot
 English | Bahasa Indonesia
 Overview
 NutriBot is an AI-powered chatbot designed to provide nutrition analysis and healthy drink recommendations. Built with Python and Streamlit, it leverages the USDA FoodData Central API for accurate food nutrient data and the Google Gemini API for natural language processing. The app features interactive Plotly charts, bilingual support (English/Indonesian), and chat history export, making it a robust tool for health enthusiasts. Deployed on Streamlit Cloud, NutriBot showcases modern AI engineering with a clean, user-friendly interface.
-🔗 Live Demo: https://[your-app-name].streamlit.app🔗 GitHub Repository: https://github.com/[username]/nutribot🔗 Figma UI Prototype: [Insert Figma URL]
+🔗 Live Demo:[(https://ai-powered-nutrition-chatbot-jhqvfstroroehcqvfjyz6a.streamlit.app/)🔗 GitHub Repository: (https://github.com/abirizki/AI-Powered-Nutrition-Chatbot)🔗 
 Features
 
 Nutrition Analysis: Retrieves calorie, protein, fat, and carbohydrate data for foods using the USDA API.
@@ -28,7 +28,7 @@ Design: Figma for UI prototyping
 Setup Instructions
 To run NutriBot locally, follow these steps:
 
-Clone the repository:git clone https://github.com/[username]/nutribot
+Clone the repository:git clone (https://github.com/abirizki/AI-Powered-Nutrition-Chatbot)
 
 
 Navigate to the project directory:cd nutribot
@@ -43,8 +43,8 @@ Install dependencies:pip install -r requirements.txt
 
 
 Configure API keys in Streamlit Secrets or .env:[secrets]
-GEMINI_API_KEY = "your-gemini-api-key"
-USDA_API_KEY = "your-usda-api-key"
+GEMINI_API_KEY = "gemini-api-key"
+USDA_API_KEY = "usda-api-key"
 
 
 Run the app:streamlit run nutribot_app.py
@@ -88,7 +88,7 @@ NutriBot: Chatbot Gizi Berbasis AI
 Bahasa Indonesia | English
 Ikhtisar
 NutriBot adalah chatbot berbasis AI yang dirancang untuk menganalisis gizi makanan dan memberikan rekomendasi minuman sehat. Dibangun dengan Python dan Streamlit, aplikasi ini memanfaatkan USDA FoodData Central API untuk data gizi akurat dan Google Gemini API untuk pemrosesan bahasa alami. NutriBot menawarkan grafik interaktif dengan Plotly, dukungan multibahasa (Indonesia/Inggris), dan fitur ekspor riwayat chat, menjadikannya alat ideal untuk penggemar kesehatan. Aplikasi ini dideploy di Streamlit Cloud dengan antarmuka yang modern dan ramah pengguna.
-🔗 Demo Langsung: https://[your-app-name].streamlit.app🔗 Repositori GitHub: https://github.com/[username]/nutribot🔗 Prototipe UI Figma: [Masukkan URL Figma]
+🔗 Demo Langsung: [(https://ai-powered-nutrition-chatbot-jhqvfstroroehcqvfjyz6a.streamlit.app/)]🔗 Repositori GitHub: https://github.com/abirizki/AI-Powered-Nutrition-Chatbot🔗 
 Fitur
 
 Analisis Gizi: Menampilkan data kalori, protein, lemak, dan karbohidrat dari makanan menggunakan USDA API.
@@ -114,7 +114,7 @@ Desain: Figma untuk prototipe UI
 Petunjuk Setup
 Untuk menjalankan NutriBot secara lokal:
 
-Clone repositori:git clone https://github.com/abirizki/nutribot
+Clone repositori:git clone https://github.com/abirizki/AI-Powered-Nutrition-Chatbot
 
 
 Masuk ke direktori proyek:cd nutribot
@@ -168,3 +168,4 @@ Google Gemini API: Untuk pemrosesan bahasa alami.
 Streamlit: Untuk pengembangan aplikasi web cepat.
 Plotly: Untuk visualisasi interaktif.
 Figma: Untuk prototipe desain UI.
+
